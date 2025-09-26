@@ -34,7 +34,7 @@
 
   <!-- Logo -->
   <span style="flex: 0 0 120px; text-align: center;">
-    <img src="[assets/](https://github.com/furkangonel/furkangonel/blob/main/assets/icon_1024.png)" alt="Lernig Logo" width:120px; height:120px;/>
+    <img src="https://github.com/furkangonel/furkangonel/blob/main/assets/icon_1024.png" alt="Lernig Logo" width:120px; height:120px;/>
   </span>
 
   <!-- Açıklama -->
@@ -45,7 +45,7 @@
   <!-- Butonlar -->
   <span style="flex: 0 0 auto; display: flex; flex-direction: column; gap: 10px; text-align: center;">
     <a href="https://apps.apple.com/tr/app/lernig/id6751505077?l=tr" target="_blank">
-      <img src="[assets/appstore-icon.png](https://github.com/furkangonel/furkangonel/blob/main/assets/appstore-icon.png)" alt="App Store" width="100"/>
+      <img src="https://github.com/furkangonel/furkangonel/blob/main/assets/appstore-icon.png" alt="App Store" width="100"/>
     </a>
     <a href="https://lernig.app" target="_blank">
       <img src="https://img.shields.io/badge/Website-ba271a?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
@@ -67,46 +67,43 @@
 
 ### 🔹 Languages & Frameworks
 
-<p align="center">
+<p align="left">
 
   
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
 
   
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="40" height="40"/>
 
   
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>
 
   
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original-wordmark.svg" alt="fastapi" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original-wordmark.svg" alt="fastapi" width="40" height="40"/>
 
   
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 
   
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 
   
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original-wordmark.svg" alt="swift" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original-wordmark.svg" alt="swift" width="40" height="40"/>
 
   
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 
   
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
-
-  
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 </p>
 
 ### 🔹 Databases & Messaging
