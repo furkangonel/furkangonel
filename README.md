@@ -30,32 +30,29 @@
 **Lernig**
 
   
-<p align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px;">
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 20px; text-align: center;">
 
   <!-- Logo -->
-  <span style="flex: 0 0 120px; text-align: center;">
+  <div style="flex: 0 0 120px;">
     <img src="https://github.com/furkangonel/furkangonel/blob/main/assets/icon_1024.png" alt="Lernig Logo" width="120" height="120"/>
-  </span>
+  </div>
 
   <!-- Açıklama -->
-  <span style="flex: 1 1 300px; text-align: left;">
+  <div style="flex: 1 1 300px; min-width: 250px; text-align: left;">
     🌟 <b>Lernig</b> is an innovative learning platform designed to help students explore topics, generate content, and test knowledge efficiently with AI-powered assistance.
-  </span>
+  </div>
 
   <!-- Butonlar -->
-  <span>
+  <div style="flex: 0 0 auto; display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
     <a href="https://apps.apple.com/tr/app/lernig/id6751505077?l=tr" target="_blank">
       <img src="https://github.com/furkangonel/furkangonel/blob/main/assets/appstore-icon.png" alt="App Store" width="100"/>
     </a>
     <a href="https://lernig.app" target="_blank">
       <img src="https://img.shields.io/badge/Website-ba271a?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
     </a>
-  </span>
+  </div>
+</div>
 
-</p>
-
-
-  
 
 ---
 
