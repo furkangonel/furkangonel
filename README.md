@@ -34,7 +34,7 @@
 
   <!-- Logo -->
   <span style="flex: 0 0 120px; text-align: center;">
-    <img src="https://github.com/furkangonel/furkangonel/blob/main/assets/icon_1024.png" alt="Lernig Logo" width="120"; height="120";/>
+    <img src="https://github.com/furkangonel/furkangonel/blob/main/assets/icon_1024.png" alt="Lernig Logo" width="120" height="120"/>
   </span>
 
   <!-- Açıklama -->
