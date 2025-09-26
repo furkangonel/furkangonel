@@ -43,7 +43,7 @@
   </span>
 
   <!-- Butonlar -->
-  <span style="flex: 0 0 auto; display: flex; flex-direction: column; gap: 10px; text-align: center;">
+  <span>
     <a href="https://apps.apple.com/tr/app/lernig/id6751505077?l=tr" target="_blank">
       <img src="https://github.com/furkangonel/furkangonel/blob/main/assets/appstore-icon.png" alt="App Store" width="100"/>
     </a>
@@ -67,7 +67,7 @@
 
 ### 🔹 Languages & Frameworks
 
-<p align="left">
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width="50" height="50"/>
