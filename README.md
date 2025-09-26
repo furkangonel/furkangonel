@@ -34,7 +34,7 @@
 
   <!-- Logo -->
   <span style="flex: 0 0 120px; text-align: center;">
-    <img src="[assets/](https://github.com/furkangonel/assets/)icon_1024.png" alt="Lernig Logo" width:120px; height:120px;/>
+    <img src="[assets/](https://github.com/furkangonel/furkangonel/blob/main/assets/icon_1024.png)" alt="Lernig Logo" width:120px; height:120px;/>
   </span>
 
   <!-- Açıklama -->
@@ -45,7 +45,7 @@
   <!-- Butonlar -->
   <span style="flex: 0 0 auto; display: flex; flex-direction: column; gap: 10px; text-align: center;">
     <a href="https://apps.apple.com/tr/app/lernig/id6751505077?l=tr" target="_blank">
-      <img src="[assets/appstore-icon.png](https://github.com/furkangonel/assets/appstore-icon.png)" alt="App Store" width="100"/>
+      <img src="[assets/appstore-icon.png](https://github.com/furkangonel/furkangonel/blob/main/assets/appstore-icon.png)" alt="App Store" width="100"/>
     </a>
     <a href="https://lernig.app" target="_blank">
       <img src="https://img.shields.io/badge/Website-ba271a?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
@@ -121,7 +121,7 @@
 
   
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"style="margin: 5px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50" style="margin: 5px;"/>
 
   
 
