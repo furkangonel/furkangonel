@@ -9,7 +9,7 @@
 
   
 
-- 🎓 4th-year **Computer Engineering student**
+- 👨‍💻 **Computer Engineer**
 
 - 💻 Building **microservices, scalable backends, and AI-powered apps**
 
