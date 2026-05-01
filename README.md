@@ -1,127 +1,52 @@
-<!-- Profil Banner (opsiyonel) -->
+# Furkan Gönel
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B22222,100:F5E0C3&height=200&section=header&text=Hi%20👋%20I'm%20Furkan%20Gönel&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
+A computer engineer in the learning & application cycle · **full-stack**
 
-  
-  
+Java, Swift, TypeScript, Python,  mobile apps, open-source dev tools and AI agent systems.
 
-# 🚀 About Me
+[LinkedIn](https://www.linkedin.com/in/furkangonel/) · [Blog](https://furkangonel.me)
+---
 
-  
+<br>
 
-- 👨‍💻 **Computer Engineer**
+## Projects
 
-- 💻 Building **microservices, scalable backends, and AI-powered apps**
+* [Co-Wrangler](https://github.com/furkangonel/cowrangler.git) - *multi arm* CLI tool. Autonomous terminal AI agent for workflows and feasible project procedures. Co-Worker Co-Wrangler! 🐙 
+* [Shift&Campaing AI API](https://github.com/furkangonel/ml_shift-campaign_model.git) - AI-Powered Campaign and Shift Management API for Cafe and Restaurant Businesses
+* [STT API](https://github.com/furkangonel/stt_service.git) - a simple **Speech-to-Text** service. Audio files are converted to text using the `faster-whisper` model.
 
-- 🌱 Exploring **cloud-native solutions, distributed systems, and mobile apps**
+## Private
 
-- ✨ Believer in **clean code, system design, and lifelong learning**
+* [Lernig](https://lernig.app) - Lernig is an artificial intelligence-powered application that provides students with the tools to produce, summarize, and create presentations topics and questions for their studies.
+[App Store](https://apps.apple.com/us/app/lernig/id6751505077) · [Play Store](https://play.google.com/store/apps/details?id=defung.lernig)
 
-  
+* [Cookie](https://cookie-ai.app) - Save recipes from socials  & ingredients to suggestions: `very soon` 
+
+<br>
+
+## Tech
+<p>
+ <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+ <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white" alt="Swift">
+  <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Core%20ML-000000?style=flat-square&logo=apple&logoColor=white" alt="Core ML">
+</p>
+
+<br>
 
 ---
 
-  
+## GitHub Analytics
 
-# My Mobile App
-
-  
-
-**Lernig**
-
-  
-<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 20px; text-align: center;">
-
-  <!-- Logo -->
-  <div style="flex: 0 0 120px;">
-    <img src="https://github.com/furkangonel/furkangonel/blob/main/assets/icon_1024.png" alt="Lernig Logo" width="120" height="120"/>
-  </div>
-
-  <!-- Açıklama -->
-  <div style="flex: 1 1 300px; min-width: 250px; text-align: left;">
-    🌟 <b>Lernig</b> is an innovative learning platform designed to help students explore topics, generate content, and test knowledge efficiently with AI-powered assistance.
-  </div>
-
-  <!-- Butonlar -->
-  <div style="flex: 0 0 auto; display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
-    <a href="https://apps.apple.com/tr/app/lernig/id6751505077?l=tr" target="_blank">
-      <img src="https://github.com/furkangonel/furkangonel/blob/main/assets/appstore-icon.png" alt="App Store" width="100"/>
-    </a>
-    <a href="https://lernig.app" target="_blank">
-      <img src="https://img.shields.io/badge/Website-ba271a?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
-    </a>
-  </div>
+<div align="center">
+   <img src="https://ghchart.rshah.org/furkangonel" alt="Furkan's GitHub Contribution Graph" class="w-full" style="max-width: 100%; height: auto;" loading="lazy" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=furkangonel&bg_color=00000000&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff" height="160" alt="Profile Details" />
 </div>
-
-
----
-
-  
-
-# 🛠️ Tech Stack
-
-  
-
-### 🔹 Languages & Frameworks
-
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="50" height="50">&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" width="50" height="50">&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width="50" height="50">&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original-wordmark.svg" width="50" height="50">&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50">&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50"></p>
-
-### 🔹 Databases & Messaging
-
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50">&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50">&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50">&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="50" height="50">&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original-wordmark.svg" width="60" height="60"></p>
-
-### 🔹 DevOps & Tools
-
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50" height="50">&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" width="50" height="50">&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="50" height="50">&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" width="50" height="50"></p>
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=furkangonel&show_icons=true&theme=moltack" height="160" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkangonel&layout=compact&theme=moltack" height="160" />
-
-</p>
-
-  
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=furkangonel&theme=moltack&hide_border=true" height="180" />
-
-</p>
-
-  
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=furkangonel&theme=moltack" />
-
-</p>
-
-  
-
----
-
-# 🌐 Connect with Me
-
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/furkan-gönel-979058290" target="_blank">
-
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
-</a>
-
-<a href="mailto:furkangonel.ce@gmail.com">
-
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-
-</a>
-
-</p>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B22222,100:F5E0C3&height=120&section=footer" width="100%"/>
